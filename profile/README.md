@@ -18,6 +18,7 @@
 + [Studio Orora](https://orora.studio) - 짤방러의 소속 팀입니다.
 + [Happytree Samsung#7612](https://github.com/samsunghappytree123) - 짤방러의 메인테이너입니다.
 + [_mccake6#0692](https://github.com/mccake6) - 짤방러의 호스팅을 도와주시고 계십니다.
++ [시녹#7068](https://github.com/sevrino) - 짤방러의 개발자입니다.
 
 ## 🏆 특별하게 감사한 분들
 + [yswysw](https://github.com/sw08) - 짤방러를 창시하신 분이자, 이전 메인테이너님입니다. 개발자에게 도움을 많이 주셨어요!
